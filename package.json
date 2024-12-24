@@ -1,0 +1,25 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "curso de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edinsonpb/async-landing.git"
+  },
+  "author": "Edinson Parra Bahos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edinsonpb/async-landing/issues"
+  },
+  "homepage": "https://github.com/Edinsonpb/async-landing#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.2.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17"
+  }
+}
